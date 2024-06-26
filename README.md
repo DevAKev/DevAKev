@@ -7,7 +7,7 @@ Je suis un développeur passionné par l'innovation et les technologies qui faç
 !Mes contributions
 
 ## Technologies
-!JavaScript
+JavaScript: !JavaScript
 !React
 !Node.js
 !PHP
