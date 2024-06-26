@@ -14,7 +14,7 @@ JavaScript: !JavaScript
 !SQL
 
 ## Collaborons !
-Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://code-garage.fr/blog/comment-personnaliser-son-profil-github-avec-un-fichier-readme/)!
+Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](kevynpro7700@gmail.com)!
 
 ## Portfolio
-Pour un aperçu de mes projets, [visitez mon portfolio](https://code-garage.fr/blog/comment-personnaliser-son-profil-github-avec-un-fichier-readme/).
+Pour un aperçu de mes projets, [visitez mon portfolio](https://devakev.github.io/aiche-kevyn).
