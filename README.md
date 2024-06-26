@@ -7,7 +7,6 @@ Je suis un développeur passionné par l'innovation et les technologies qui faç
 !Mes contributions
 
 ## Technologies
-![javascript](https://github.com/DevAKev/DevAKev/assets/133033632/3cce9176-d2ec-4f45-b3e2-82577081b1d1)
 !React
 !Node.js
 !PHP
