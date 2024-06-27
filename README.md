@@ -11,4 +11,5 @@ Je suis un **développeur Full Stack** qui aime l'innovation et les technologies
 Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://devakev.github.io/aiche-kevyn)!
 
 ## Portfolio
-Pour un aperçu de mes projets, [visitez mon portfolio](https://devakev.github.io/aiche-kevyn).
+Pour un aperçu de mes projets... ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
+ 
