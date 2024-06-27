@@ -13,4 +13,6 @@ Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créa
 ## Portfolio
 ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
  
+(https://img.shields.io/badge/:badgeContent?style=social&logo=Devakev&logoColor=Vert) 
+
  
