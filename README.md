@@ -12,3 +12,5 @@ Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créa
 
 ## Portfolio
 ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
+
+<img src="https://simpleicons.org/icons/javascript.svg" width="50" height="50">
