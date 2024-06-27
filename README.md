@@ -4,7 +4,7 @@
 Je suis un **développeur Full Stack** qui aime l'innovation et les technologies qui façonnent l'avenir. J'ai une passion dévorante pour la programmation et la création de contenus visuels. 
 
 ## Technologies & Langages
--Html -CSS -Javascript -React -Sass -Php -SQL -Axios [JavaScript](https://simpleicons.org/icons/javascript.svg)
+-Html -CSS -Javascript -React -Sass -Php -SQL -Axios - [JavaScript]<img src="https://simpleicons.org/icons/javascript.svg" width="50" height="50">
 
 
 ## Mes réalisations
@@ -14,5 +14,3 @@ Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créa
 
 ## Portfolio
 ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
-
-<img src="https://simpleicons.org/icons/javascript.svg" width="50" height="50">
