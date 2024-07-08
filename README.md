@@ -15,7 +15,8 @@ Imaginez ce que nous pourrions accomplir ensemble ! N’hésitez pas à me conta
 
 ## Connectez-vous avec moi ![Contact me](socials-contact.gif)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devakev.contact@gmail.com)
-
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:https://wa.me/33760050343)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](mailto:https://discord.gg/8GrF5MeegJ)
 
 ## Technologies & Langages
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
