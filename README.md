@@ -60,7 +60,6 @@ Imaginez ce que nous pourrions accomplir ensemble ! N’hésitez pas à me conta
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={DevAKev}&theme=blue-green)
 
 ## Collaborons !
 Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://devakev.github.io/aiche-kevyn)!
