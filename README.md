@@ -64,7 +64,7 @@ Imaginez ce que nous pourrions accomplir ensemble ! N’hésitez pas à me conta
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ## Collaborons !
-Ouvert à toute proposition de collaboration, je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://devakev.github.io/aiche-kevyn)!
+Je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://devakev.github.io/aiche-kevyn)!
 
 ## Portfolio
 ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
