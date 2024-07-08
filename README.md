@@ -1,6 +1,6 @@
 ![Ufo In Space](ufo-in-space.gif)
 
-## Nombre de Visiteurs sur mon profil ![Visitor Count](https://profile-counter.glitch.me/{Devakev}/count.svg)
+## Nombre de Visiteurs sur mon profil ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
 # Bienvenue dans le monde de l'innovation et de la créativité, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
 
