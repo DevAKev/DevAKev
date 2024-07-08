@@ -1,7 +1,7 @@
 # Bienvenue, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
 
 ## Qui suis-je ?
-Je suis un **développeur Full Stack** qui aime l'innovation et les technologies qui façonnent l'avenir. J'ai une passion dévorante pour la programmation et la création de ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)contenus visuels. 
+Je suis un ![Static Badge](https://img.shields.io/badge/développeur%20Full%20Stack-24bbe8) qui aime l'innovation et les technologies qui façonnent l'avenir. J'ai une passion dévorante pour la programmation et la création de contenus visuels. 
 
 ## Technologies & Langages
 -Html -CSS -Javascript -React -Sass -Php -SQL -Axios - Javascript
