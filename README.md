@@ -1,4 +1,3 @@
-![World Wide Web](world-wide-web.gif)
 ![Ufo In Space](ufo-in-space.gif)
 
 ## Nombre de Visiteurs sur mon profil ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
