@@ -4,7 +4,7 @@
 Je suis un ![Static Badge](https://img.shields.io/badge/Développeur%20Full%20Stack-24bbe8) qui aime l'innovation et les technologies qui façonnent l'avenir. J'ai une passion dévorante pour la programmation et la création de contenus visuels. 
 
 ## Technologies & Langages
--Html -CSS -Javascript -React -Sass -Php -SQL -Axios - ![JavaScript]([https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) -CSS -Javascript -React -Sass -Php -SQL -Axios - ![JavaScript]
 
 ## Mes réalisations
 
