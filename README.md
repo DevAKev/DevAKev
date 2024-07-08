@@ -1,6 +1,6 @@
 ![Ufo In Space](ufo-in-space.gif)
 
-## Nombre de Visiteurs sur mon profil ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
+## Nombre de Visiteurs sur mon profil: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
 # Bienvenue dans le monde de l'innovation et de la créativité, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
 
@@ -17,6 +17,7 @@ Imaginez ce que nous pourrions accomplir ensemble ! N’hésitez pas à me conta
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devakev.contact@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33760050343)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8GrF5MeegJ)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A9vyn-aiche/)
 
 ## Technologies & Langages
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
