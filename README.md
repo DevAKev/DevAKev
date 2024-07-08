@@ -1,3 +1,5 @@
+![World Wide Web](world-wide-web.gif)
+
 ## Nombre de Visiteurs sur mon profil ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
 # Bienvenue, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
