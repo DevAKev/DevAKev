@@ -13,6 +13,8 @@ Chaque projet est une opportunité pour moi de transformer une idée en réalit�
 
 Imaginez ce que nous pourrions accomplir ensemble ! N’hésitez pas à me contacter pour demander des conseils, discuter de vos défis ou simplement pour échanger des idées. Ensemble, nous pouvons améliorer l’avenir de vos projets de développement.
 
+## Connectez-vous avec moi ![Contact me](socials-contact.gif)
+
 ## Technologies & Langages
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
