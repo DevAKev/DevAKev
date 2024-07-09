@@ -1,6 +1,6 @@
 ![Ufo In Space](ufo-in-space.gif)
 
-## Nombre de Visiteurs sur mon profil: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
+## Visites: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
 # Bienvenue, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
 
@@ -12,8 +12,6 @@ Je développe tous mes projets à partir de zéro, ce qui me permet de me projet
 Chaque projet est une opportunité pour moi de transformer une idée en réalité, de créer quelque chose d'unique et personnalisé qui répond parfaitement à vos besoins. Je suis là pour vous guider et vous rassurer tout au long du processus de réalisation. En tant que force de proposition, je suis prêt à vous accompagner dans la concrétisation de vos projets.
 
 ![WelcomeWelcomeToTheFutureGIF](https://github.com/DevAKev/DevAKev/assets/133033632/7aaa2e8b-41b9-42c0-a0dc-da4d87ad8e10)
-
-Imaginez ce que nous pourrions accomplir ensemble ! N’hésitez pas à me contacter pour demander des conseils, discuter de vos défis ou simplement pour échanger des idées. Ensemble, nous pouvons améliorer l’avenir de vos projets de développement ! 
 
 ## Connectez-vous avec moi ![Contact me](socials-contact.gif)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devakev.contact@gmail.com)
