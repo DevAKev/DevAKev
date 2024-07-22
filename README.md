@@ -1,6 +1,6 @@
 ![Ufo In Space](ufo-in-space.gif)
 
-## 🌐Visitor Count🎰🖱️: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
+## 🌐 ![Static Badge](https://img.shields.io/badge/Visitor-Count-24bbe8) 🎰🖱️: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
 # Bienvenue, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
 
