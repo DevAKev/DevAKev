@@ -70,7 +70,7 @@ Chaque projet est une opportunité pour moi de transformer une idée en réalit�
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ## Collaborons !
-Je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://devakev.github.io/aiche-kevyn)!
+Je suis prêt à apporter ma créativité à vos projets. [Contactez-moi](https://devakev.github.io/aiche-kevyn)! 
 
 ## Portfolio
 ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
