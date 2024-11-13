@@ -2,7 +2,7 @@
 
 ## 🌐 ![Static Badge](https://img.shields.io/badge/Visitor-Count-24bbe8) 🎰: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
-# Bienvenue, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
+# Bienvenue, je m'appelle Kévyn
 
 ## Qui suis-je ?
 Je suis un développeur web passionné par les technologies qui façonnent notre avenir. La programmation et la création de contenus visuels ne sont pas seulement des compétences pour moi, mais un véritable centre d'intérêt qui me pousse à créer, à être original et à résoudre des défis techniques. 
@@ -27,6 +27,7 @@ Je suis un développeur web passionné par les technologies qui façonnent notre
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
