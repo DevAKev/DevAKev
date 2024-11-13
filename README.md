@@ -60,8 +60,7 @@ Je suis un développeur web passionné par les technologies qui façonnent notre
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-## Collaborons !
-[Contactez-moi](https://devakev.github.io/aiche-kevyn)! 
+## [Contactez-moi](https://devakev.github.io/aiche-kevyn) et collaborons !
 
 ## Portfolio
 ### [Voir le portfolio](https://devakev.github.io/aiche-kevyn) 🚀
