@@ -1,13 +1,11 @@
 ![Ufo In Space](ufo-in-space.gif)
 
-## 🌐 ![Static Badge](https://img.shields.io/badge/Visitor-Count-24bbe8) 🎰🖱️: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
+## 🌐 ![Static Badge](https://img.shields.io/badge/Visitor-Count-24bbe8) 🎰: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
 # Bienvenue, je m'appelle Kévyn (DevAKev pour les intimes) ! 👋
 
 ## Qui suis-je ?
 Je suis un développeur web passionné par les technologies qui façonnent notre avenir. La programmation et la création de contenus visuels ne sont pas seulement des compétences pour moi, mais un véritable centre d'intérêt qui me pousse à créer, à être original et à résoudre des défis techniques. 
-
-![WelcomeWelcomeToTheFutureGIF](https://github.com/DevAKev/DevAKev/assets/133033632/7aaa2e8b-41b9-42c0-a0dc-da4d87ad8e10)
 
 ## Connectez-vous avec moi ![Contact me](socials-contact.gif)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devakev.contact@gmail.com)
