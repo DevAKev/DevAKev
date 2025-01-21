@@ -1,4 +1,4 @@
-![Ufo In Space](ufo-in-space.gif)
+![background-img](linkedin-background-3.png)
 
 ## 🌐 ![Static Badge](https://img.shields.io/badge/Visitor-Count-24bbe8) 🎰: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
