@@ -2,10 +2,7 @@
 
 ## 🌐 ![Static Badge](https://img.shields.io/badge/Visitor-Count-24bbe8) 🎰: ![Visitor Count](https://profile-counter.glitch.me/{DEVAKEV}/count.svg)
 
-# Bienvenue, je m'appelle Kévyn
-
-## Qui suis-je ?
-Je suis un développeur web passionné par les technologies qui façonnent notre avenir. La programmation et la création de contenus visuels ne sont pas seulement des compétences pour moi, mais un véritable centre d'intérêt qui me pousse à créer, à être original et à résoudre des défis techniques. 
+# Bienvenue, je m'appelle Kévyn mais vous pouvez m'appeler DevAKev
 
 ## Connectez-vous avec moi ![Contact me](socials-contact.gif)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devakev.contact@gmail.com)
